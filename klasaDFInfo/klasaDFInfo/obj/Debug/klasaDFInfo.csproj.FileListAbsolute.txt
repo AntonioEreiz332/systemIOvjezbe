@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\bin\Debug\klasaDFInfo.exe.config
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\bin\Debug\klasaDFInfo.exe
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\bin\Debug\klasaDFInfo.pdb
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\obj\Debug\klasaDFInfo.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\obj\Debug\klasaDFInfo.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\obj\Debug\klasaDFInfo.exe
+C:\Users\toni-PC\source\repos\klasaDFInfo\klasaDFInfo\obj\Debug\klasaDFInfo.pdb
