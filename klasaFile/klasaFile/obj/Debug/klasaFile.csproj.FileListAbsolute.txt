@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.exe.config
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.exe
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\bin\Debug\klasaFile.pdb
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.exe
+C:\Users\toni-PC\source\repos\klasaFile\klasaFile\obj\Debug\klasaFile.pdb
