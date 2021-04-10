@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\bin\Debug\klasaPath.exe.config
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\bin\Debug\klasaPath.exe
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\bin\Debug\klasaPath.pdb
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\obj\Debug\klasaPath.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\obj\Debug\klasaPath.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\obj\Debug\klasaPath.exe
+C:\Users\toni-PC\source\repos\klasaPath\klasaPath\obj\Debug\klasaPath.pdb

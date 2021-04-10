@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klasaPath", "klasaPath\klasaPath.csproj", "{DDB0F8C8-A7E9-4B92-9F8C-879FA9A501D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB0F8C8-A7E9-4B92-9F8C-879FA9A501D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB0F8C8-A7E9-4B92-9F8C-879FA9A501D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB0F8C8-A7E9-4B92-9F8C-879FA9A501D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB0F8C8-A7E9-4B92-9F8C-879FA9A501D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36AF2D9-FDE2-425C-8999-684F35D9AEA8}
+	EndGlobalSection
+EndGlobal
