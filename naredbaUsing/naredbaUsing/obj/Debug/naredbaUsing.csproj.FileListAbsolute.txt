@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\bin\Debug\naredbaUsing.exe.config
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\bin\Debug\naredbaUsing.exe
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\bin\Debug\naredbaUsing.pdb
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\obj\Debug\naredbaUsing.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\obj\Debug\naredbaUsing.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\obj\Debug\naredbaUsing.exe
+C:\Users\toni-PC\source\repos\naredbaUsing\naredbaUsing\obj\Debug\naredbaUsing.pdb
