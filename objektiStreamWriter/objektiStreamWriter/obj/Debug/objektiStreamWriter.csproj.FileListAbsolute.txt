@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\bin\Debug\objektiStreamWriter.exe.config
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\bin\Debug\objektiStreamWriter.exe
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\bin\Debug\objektiStreamWriter.pdb
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\obj\Debug\objektiStreamWriter.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\obj\Debug\objektiStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\obj\Debug\objektiStreamWriter.exe
+C:\Users\toni-PC\source\repos\objektiStreamWriter\objektiStreamWriter\obj\Debug\objektiStreamWriter.pdb
